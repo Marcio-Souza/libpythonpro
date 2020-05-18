@@ -1,7 +1,7 @@
 # libpythonpro
 Bibliotecas do curso PythonPro
 
-Versão suportada Python3
+Versão suportada **Python3**
 
 Link para o curso [PythonPro](https://www.python.pro.br)
 
