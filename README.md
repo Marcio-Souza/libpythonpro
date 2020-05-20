@@ -1,5 +1,5 @@
 # libpythonpro
-Bibliotecas do curso **PythonPro**l
+Bibliotecas do curso **PythonPro**
 
 Versão suportada **Python3**
 
