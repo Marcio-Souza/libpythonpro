@@ -1,4 +1,3 @@
-#classe de teste de envio de email
 import pytest
 
 from libpythonpro.spam.enviador_de_email import Enviador
