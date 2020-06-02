@@ -1,4 +1,4 @@
-#classe para envio de email
+# classe para envio de email
 class Enviador:
     def enviar(self, remetente, destinatario, assunto, corpo):
         if '@' not in remetente:
