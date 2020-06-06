@@ -12,7 +12,7 @@ pluggy==0.13.1
 pytest==5.4.3
 six==1.15.0
 wcwidth==0.2.3
-packaging==20.3
+packaging==20.4
 
 #coverage
 pytest-cov==2.8.1
