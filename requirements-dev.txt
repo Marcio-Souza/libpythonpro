@@ -1,4 +1,4 @@
-flake8==3.8.1
+flake8==3.8.2
 mccabe==0.6.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
@@ -9,13 +9,13 @@ py==1.8.1
 more-itertools==8.3.0
 pyparsing==2.4.7
 pluggy==0.13.1
-pytest==5.4.2
-six==1.14.0
-wcwidth==0.1.9
-packaging==20.3
+pytest==5.4.3
+six==1.15.0
+wcwidth==0.2.3
+packaging==20.4
 
 #coverage
-pytest-cov==2.8.1
+pytest-cov==2.9.0
 coverage==5.1
 
 -r requirements.txt
